@@ -3,7 +3,7 @@
 My name is Seva, I am a:
 
 - 🎓 Second-year Bachelor Student at ITMO University, Computer Science & Engineering
-- 👨‍💻 First-year Student at Computer Science Center, Data Science & Software Engineering
+- 👨‍💻 First-year Student at @cscenter, Data Science & Software Engineering
 - 🏅 Kaggle Competitions Expert
 - ⚡ CV: [click](https://drive.google.com/file/d/1_hJHHMCfYR5pD2g368_fOHL0Yfa_utVV/view)
 
