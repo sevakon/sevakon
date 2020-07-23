@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Seva, I am a:
+
+- 🎓 Second-year Bachelor Student at ITMO University, Computer Science & Engineering
+- 👨‍💻 First-year Student at @cscenter, Data Science & Software Engineering
+- 🏅 Kaggle Competitions Expert
+- ⚡ CV: [click](bit.ly/vsevolod-konyakhin-cv)
+
+
+
 <!--
 **sevakon/sevakon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
