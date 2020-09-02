@@ -2,8 +2,8 @@
 
 My name is Seva, I am a:
 
-- 🎓 Second-year Bachelor Student at ITMO University, Computer Science & Engineering
-- 👨‍💻 First-year Student at [@cscenter](https://github.com/cscenter), Data Science & Software Engineering
+- 🎓 Third-year Bachelor Student at ITMO University, Computer Science & Engineering
+- 👨‍💻 Second-year Student at [@cscenter](https://github.com/cscenter), Data Science & Software Engineering
 - 🔭 Intern at Yandex
 - 🏅 Kaggle Competitions Expert
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sevakon) | [Twitter](https://twitter.com/sevakonyakhin) | [Telegram](https://t.me/sevakon)
