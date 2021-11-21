@@ -9,8 +9,8 @@ My name is Seva, I am a:
 <!-- - 🔭 Intern at Yandex -->
 - 🏅 [Kaggle](https://www.kaggle.com/sevakon) Competitions Expert
 
-![Seva's github stats](https://github-readme-stats.vercel.app/api?username=sevakon&show_icons=true&hide_border=true)
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/sevakon/competition/light)
+![Seva's github stats](https://github-readme-stats.vercel.app/api?username=sevakon&show_icons=true&hide_border=true)
 
 <!-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sevakon) | [Twitter](https://twitter.com/sevakonyakhin) | [Telegram](https://t.me/sevakon) -->
 <!-- - ⚡ CV: [click](https://drive.google.com/file/d/1_hJHHMCfYR5pD2g368_fOHL0Yfa_utVV/view) -->
