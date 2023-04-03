@@ -2,9 +2,9 @@
 
 My name is Seva, I am a:
 
-- 🎓 Fourth-year Bachelor Student at ITMO University, Computer Science & Engineering
+- 🔭 ML/CV Engineer
+- 🎓 Computer Science & Engineering graduate
 <!-- - 👨‍💻 Second-year Student at [@cscenter](https://github.com/cscenter), Data Science & Software Engineering -->
-<!-- - 🔭 Intern at Yandex -->
 - 🏅 [Kaggle](https://www.kaggle.com/sevakon) Competitions Expert
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/sevakon/competition/light)
